@@ -3,7 +3,7 @@ import { rest } from "msw";
 const token =
   "ahuBHejkJJiMDhmODZhZi0zaeLTQ4ZfeaseOGZgesai1jZWYgrTA07i73Gebhu98";
 
-let colors = [
+export let colors = [
   {
     color: "aliceblue",
     code: {
